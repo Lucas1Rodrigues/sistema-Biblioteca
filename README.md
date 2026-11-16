@@ -20,8 +20,3 @@ Requisitos:
 9. Impedir empréstimo de livros indisponíveis.
 10. Exibir mensagens informando o sucesso ou falha das operações.
   
-3. Método para sacar.
-4. Método para consultar saldo.
-5. Não permitir depósitos negativos.
-6. Não permitir saques maiores que o saldo.
-7. Criar método para transferir dinheiro entre duas contas.
